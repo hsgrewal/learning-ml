@@ -6,7 +6,7 @@ Python. It is forked from [ageron's project](https://github.com/ageron/handson-m
 It contains the example code and solutions to the exercises in
 [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book.
 
-![ML Book]("https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg")
+![ML Book](https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg)
 
 ## Quick Start
 
