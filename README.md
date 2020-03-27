@@ -10,20 +10,16 @@ It contains the example code and solutions to the exercises in
 
 ## Quick Start
 
-### Want to install this project on your own machine?
-
-Start by installing [Anaconda](https://www.anaconda.com/distribution/) (or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)), [git](https://git-scm.com/downloads), and if you have a TensorFlow-compatible GPU, install the [GPU driver](https://www.nvidia.com/Download/index.aspx).
-
-Next, clone this project by opening a terminal and typing the following commands
+Clone this project by opening a terminal and typing the following commands
  (do not type the first `$` signs on each line, they just indicate that these
 are terminal commands):
 
-    $ git clone https://github.com/ageron/handson-ml2.git
-    $ cd handson-ml2
+    $ git clone https://github.com/hsgrewal/learning-ml.git
+    $ cd learning-ml
 
 If you want to use a GPU, then edit `environment.yml`
-(or `environment-windows.yml` on Windows) and replace `tensorflow=2.0.0`
-with `tensorflow-gpu=2.0.0`. Also replace `tensorflow-serving-api==2.0.0` with
+(or `environment-windows.yml` on Windows) and replace `tensorflow=2.0.1`
+with `tensorflow-gpu=2.0.0`. Also replace `tensorflow-serving-api==2.0.1` with
  `tensorflow-serving-api-gpu==2.0.0`.
 
 Next, run the following commands:
