@@ -1,3 +1,6 @@
+# Ignore Virtual Environment
+venv/
+
 *.bak
 *.bak.*
 *.ckpt
@@ -20,4 +23,3 @@ datasets/spam
 datasets/titanic
 datasets/words
 datasets/jsb_chorales
-
